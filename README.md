@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SwarajTarte
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me 'swaraj.codes@gmail.com'.
+# 👋 Hi, I'm Swaraj Tarte
+- 👀 Passionate about programming and solving real-world problems
+- 🌱 Currently diving deep into Data Science
+- 📫 Reach me at: swaraj.codes@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I trust people more than machines.
+- ⚡ Fun fact: I trust people more than machines — for now 😉
 
 <!---
 SwarajTarte/SwarajTarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
