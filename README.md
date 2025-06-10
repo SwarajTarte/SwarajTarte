@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">🙋‍♂️ I'm Swaraj from PUNE!!<br><br>👀 Passionate about programming and solving real-world problems<br>🌱 Currently diving deep into Data Science<br>📫 Reach me at: swaraj.codes@gmail.com<br>😄 Pronouns: he/his<br>⚡ Fun fact: I trust people more than machines — for now 😉</p>
+<p align="left">🙋‍♂️ I'm Sᘺᗩᖶ from PUNE!!<br><br>👀 Passionate about programming and solving real-world problems<br>🌱 Currently diving deep into Data Science<br>📫 Reach me at: swaraj.codes@gmail.com<br>😄 Pronouns: he/his<br>⚡ Fun fact: I trust people more than machines — for now 😉</p>
 
 ###
 
