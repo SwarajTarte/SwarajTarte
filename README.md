@@ -67,9 +67,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SwarajTarte/count.svg?"  />
-</div>
-
-###
