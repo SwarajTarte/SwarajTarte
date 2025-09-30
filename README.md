@@ -11,15 +11,7 @@
   <a href="https://www.youtube.com/@swatcodes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/swat.codes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/justt.swat" target="_blank">
+  <a href="https://www.instagram.com/justt.swat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -34,7 +26,7 @@
 
 ###
 
-<p align="left">🙋‍♂️ I'm Sᘺᗩᖶ from PUNE!!<br><br>👀 Passionate about programming and solving real-world problems<br>🌱 Currently diving deep into Data Science<br>📫 Reach me at: swaraj.codes@gmail.com<br>😄 Pronouns: he/his<br>⚡ Fun fact: I trust people more than machines — for now 😉</p>
+<p align="left">🙋‍♂️ I'm Swaraj(Sᘺᗩᖶ) from PUNE!!<br><br>👀 Passionate about programming and solving real-world problems<br>🌱 Currently diving deep into Data Science<br>📫 Reach me at: swaraj.codes@gmail.com<br>😄 Pronouns: he/his<br>⚡ Fun fact: I trust people more than machines — for now 😉</p>
 
 ###
 
